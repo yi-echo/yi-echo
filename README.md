@@ -20,11 +20,6 @@
 ---
 
 ## 🚀 About Me
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Ethan&theme=radical&no-frame=true&no-bg=false&margin-w=4" alt="GitHub Trophies" />
-</div>
-
 - 🧠 **Full-Stack Developer** focusing on **Frontend, DevOps, and AI**  
 - ⚡ Passionate about **geek culture**, especially the power of **Neovim**  
 - 💡 Always eager to transform ideas into code and practical solutions  

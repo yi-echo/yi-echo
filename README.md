@@ -64,12 +64,6 @@
 
 ---
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ethan&theme=radical&hide_border=true&area=true" alt="Contribution Graph" />
-</div>
-
----
-
 ## 🤝 Let's Connect!
 
 Feel free to reach out if you'd like to collaborate or chat about tech!  

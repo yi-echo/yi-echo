@@ -1,31 +1,14 @@
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=00ADD8&center=true&vCenter=true&width=450&lines=Hi+there%2C+I'm+Ethan+%F0%9F%91%8B;Full-stack+Engineer;DevOps+and+AI+Enthusiast;Geek+and+Neovim+Lover" alt="Typing SVG" />
-</div>
+👋 Welcome to My GitHub!
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Ethan&style=flat-square&color=00ADD8" alt="Profile Views" />
-</div>
+I am a Fullstack Developer with a proven track record in designing and implementing scalable platforms, and delivering impactful solutions in team-driven environments. Skilled in building intuitive user interfaces, robust backend systems, and seamlessly integrating third-party services. I am passionate about continuous learning, solving complex technical challenges, and driving innovation throughout the software development lifecycle.
 
----
+🦄 About Me
 
-<div align="center">
-  <a href="mailto:caden.marshal.yi@gmail.com">
-    <img src="https://img.shields.io/badge/Email-caden.marshal.yi@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://github.com/Ethan">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-</div>
+I am passionate about learning new technologies and applying them to my projects. Every project I build is done with great attention to detail—from git init to deploying components publicly. Dedication drives every step of the way.
 
----
+I prefer a barebones, low-level approach to learning. This helps me build a strong foundation, understand how tools and libraries work internally, and appreciate their efficiency—both in development and operations.
 
-## 🚀 About Me
-- 🧠 **Full-Stack Developer** focusing on **Frontend, DevOps, and AI**  
-- ⚡ Passionate about **geek culture**, especially the power of **Neovim**  
-- 💡 Always eager to transform ideas into code and practical solutions  
-- 🌱 Continuously learning and exploring new technologies  
-
----
+I actively engage with the programming community to learn and teach. This allows me to stay updated with best practices and reinforce my knowledge by sharing it with others.
 
 ## 🛠️ Tech Stack
 

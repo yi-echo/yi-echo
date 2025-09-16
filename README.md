@@ -10,7 +10,20 @@ I prefer a barebones, low-level approach to learning. This helps me build a stro
 
 I actively engage with the programming community to learn and teach. This allows me to stay updated with best practices and reinforce my knowledge by sharing it with others.
 
+📚 **Reading Record**
+
+Here are my reading notes from various subjects, which I keep updating regularly:
+
+| **Category/Tag**      | **Repository Name** | **Description** | **Books & Articles** |
+|-----------------------|---------------------|-----------------|----------------------|
+| **Operating Systems**  | [Operating Systems Notes](https://applied-programming.github.io/Operating-Systems-Notes/)  | **Design Patterns**   | [Design Patterns Notes](link-to-your-design-patterns-notes)  | Singleton, Factory, Observer Pattern | **Books**: "Design Patterns: Elements of Reusable Object-Oriented Software" - Erich Gamma<br>**Article**: [In-depth Understanding of Design Patterns](https://example.com/article) |
+| **JavaScript & Web Development** | [JavaScript Notes](link-to-your-javascript-notes) | Closures, Promises, Event Loop | **Books**: "JavaScript: The Good Parts" - Douglas Crockford<br>**Article**: [Detailed Explanation of JavaScript Asynchronous Programming](https://example.com/article) |
+| **Python**            | [Python Notes](link-to-your-python-notes) | Basic Syntax, Data Structures, Object-Oriented Programming | **Books**: "Python Programming: From Beginner to Expert"<br>**Article**: [Python and Data Science](https://example.com/article) |
+
+---
+
 ## 🛠️ Tech Stack
+
 
 ### 💻 Programming Languages
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)

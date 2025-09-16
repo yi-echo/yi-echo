@@ -67,7 +67,7 @@ Here are my reading notes from various subjects, which I keep updating regularly
 
 🤝 **Let's Connect!**
 
-Feel free to reach out if you'd like to collaborate or chat about tech!  
+Feel free to reach out if you'd like to collaborate or chat about tech! QQ:2863519726
 
 <div align="center">
   <a href="mailto:caden.marshal.yi@gmail.com">

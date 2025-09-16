@@ -18,8 +18,7 @@ Here are my reading notes from various subjects, which I keep updating regularly
 |-----------------------|---------------------|-----------------|----------------------|
 | **Operating Systems**  | [Operating Systems Notes](https://applied-programming.github.io/Operating-Systems-Notes/)![Static Badge](https://img.shields.io/badge/%E9%98%85%E8%AF%BB-%2398F5FF)
   | **Design Patterns**   | [Design Patterns Notes](link-to-your-design-patterns-notes)  | Singleton, Factory, Observer Pattern | **Books**: "Design Patterns: Elements of Reusable Object-Oriented Software" - Erich Gamma<br>**Article**: [In-depth Understanding of Design Patterns](https://example.com/article) |
-| **JavaScript & Web Development** | [JavaScript Notes](link-to-your-javascript-notes) ![Static Badge](https://img.shields.io/badge/%E7%AC%94%E8%AE%B0-%23458B74)
-| Closures, Promises, Event Loop | **Books**: "JavaScript: The Good Parts" - Douglas Crockford<br>**Article**: [Detailed Explanation of JavaScript Asynchronous Programming](https://example.com/article) |
+| **JavaScript & Web Development** | [JavaScript Notes](link-to-your-javascript-notes)![Static Badge](https://img.shields.io/badge/%E7%AC%94%E8%AE%B0-%23458B74) | Closures, Promises, Event Loop | **Books**: "JavaScript: The Good Parts" - Douglas Crockford<br>**Article**: [Detailed Explanation of JavaScript Asynchronous Programming](https://example.com/article) |
 | **Python**            | [Python Notes](link-to-your-python-notes) | Basic Syntax, Data Structures, Object-Oriented Programming | **Books**: "Python Programming: From Beginner to Expert"<br>**Article**: [Python and Data Science](https://example.com/article) |
 
 🛠️ **Tech Stack**

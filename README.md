@@ -14,12 +14,15 @@ I actively engage with the programming community to learn and teach. This allows
 
 Here are my reading notes from various subjects, which I keep updating regularly:
 
-| **Category/Tag**      | **Repository Name** | **Description** | **Books & Articles** |
-|-----------------------|---------------------|-----------------|----------------------|
-| **Operating Systems**  | [Operating Systems Notes](https://applied-programming.github.io/Operating-Systems-Notes/)![Static Badge](https://img.shields.io/badge/%E9%98%85%E8%AF%BB-%2398F5FF)
-  | **Design Patterns**   | [Design Patterns Notes](link-to-your-design-patterns-notes)  | Singleton, Factory, Observer Pattern | **Books**: "Design Patterns: Elements of Reusable Object-Oriented Software" - Erich Gamma<br>**Article**: [In-depth Understanding of Design Patterns](https://example.com/article) |
-| **JavaScript & Web Development** | [JavaScript Notes](link-to-your-javascript-notes)![Static Badge](https://img.shields.io/badge/%E7%AC%94%E8%AE%B0-%23458B74) | Closures, Promises, Event Loop | **Books**: "JavaScript: The Good Parts" - Douglas Crockford<br>**Article**: [Detailed Explanation of JavaScript Asynchronous Programming](https://example.com/article) |
-| **Python**            | [Python Notes](link-to-your-python-notes) | Basic Syntax, Data Structures, Object-Oriented Programming | **Books**: "Python Programming: From Beginner to Expert"<br>**Article**: [Python and Data Science](https://example.com/article) |
+| **Category/Tag**      | **Repository Name** | **Description** | **Books & Articles** |  
+|-----------------------|---------------------|-----------------|----------------------|  
+| **Operating Systems**  | [Operating Systems Notes](link-to-your-os-notes) | Introduction to OS concepts, Processes, Memory Management, File Systems | **Books**: "Operating System Concepts" - Abraham Silberschatz<br>**Article**: [Introduction to Operating Systems](https://example.com/article) |  
+| **Computer Networks**  | [Computer Networks Notes](link-to-your-computer-networks-notes) | Basic Networking Concepts, OSI Model, TCP/IP, Subnetting, Routing & Switching | **Books**: "Computer Networking: A Top-Down Approach" - James Kurose<br>**Article**: [Understanding Networking Protocols](https://example.com/article) |  
+| **Computer Organization** | [Computer Organization Notes](link-to-your-computer-organization-notes) | Introduction to Computer Architecture, CPU, Memory Hierarchy, Instruction Set Architecture | **Books**: "Computer Organization and Design" - David A. Patterson<br>**Article**: [Basics of Computer Organization](https://example.com/article) |  
+| **Data Structures & Algorithms** | [Data Structures & Algorithms Notes](link-to-your-dsa-notes) | Introduction to Data Structures (Arrays, Linked Lists, Stacks, Queues, Trees), Algorithm Analysis, Sorting & Searching Algorithms | **Books**: "Introduction to Algorithms" - Cormen, Leiserson, Rivest, Stein<br>**Article**: [A Guide to Data Structures and Algorithms](https://example.com/article) |  
+| **JavaScript & Web Development** | [JavaScript Notes](link-to-your-javascript-notes) | Basic JavaScript Concepts: Variables, Functions, Objects, Arrays, DOM Manipulation | **Books**: "JavaScript: The Good Parts" - Douglas Crockford<br>**Article**: [Detailed Explanation of JavaScript Asynchronous Programming](https://example.com/article)<br>**Books**: "你不知道的 JavaScript 上中下卷" - YDKJS 系列 |  
+| **Python**            | [Python Notes](link-to-your-python-notes) | Basic Syntax, Data Types, Control Structures, Functions, Object-Oriented Programming | **Books**: "Python Programming: From Beginner to Expert"<br>**Article**: [Python and Data Science](https://example.com/article) |
+
 
 🛠️ **Tech Stack**
 

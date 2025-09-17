@@ -24,7 +24,7 @@ Here are my reading notes from various subjects, which I keep updating regularly
 | **Python**            | [Python Notes](link-to-your-python-notes) | Basic Syntax, Data Types, Control Structures, Functions, Object-Oriented Programming | **Books**: "Python Programming: From Beginner to Expert"<br>**Article**: [Python and Data Science](https://example.com/article) |  
 | **Programming Tools** | [Neovim Notes](link-to-your-neovim-notes) | Efficient code editing and workflow using Neovim, plugins, and custom configurations | **Website**: [Neovim Official](https://neovim.io/) |  
 | **AI Automation Tools** | [Claude AI Notes](link-to-your-claude-ai-notes) | Overview of Claude AI's capabilities, use cases, and integration into workflows | **Website**: [Claude AI Official](https://www.anthropic.com/claude) |  
-| **Automation Tools**   | [n8n Notes](link-to-your-n8n-notes) | Automating workflows using n8n, integrating APIs, services, and automating repetitive tasks | **Website**: [n8n Official](https://n8n.io/) |  
+| **Automation Tools**   | [n8n Notes](https://github.com/yi-echo/n8n-template/tree/main)![Static Badge](https://img.shields.io/badge/%E8%87%AA%E7%A0%94-%23c93756) | Automating workflows using n8n, integrating APIs, services, and automating repetitive tasks | **Website**: [n8n Official](https://n8n.io/) |  
 | **Project Build**      | [Project Build Notes](link-to-your-project-build-notes) ![Static Badge](https://img.shields.io/badge/%E8%87%AA%E7%A0%94-%23c93756)| TBD | **Website**: TBD |
 
 

@@ -71,7 +71,7 @@ Here are my reading notes from various subjects, which I keep updating regularly
 
 ---
 
-🤝 **Let's Connect!**📫 
+🤝 Let's Connect!📫 
 
 I believe in the power of collaboration and would love to connect with like-minded developers. If you have a project or idea in mind, or simply want to chat about tech, feel free to reach out to me! QQ:2863519726
 

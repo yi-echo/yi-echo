@@ -15,25 +15,6 @@ Learning is my lifelong passion. From exploring the inner workings of libraries 
 - Continuous Learning: Technology evolves fast, and I strive to stay on top of the latest trends, tools, and best practices. If you want to talk about modern JavaScript, cloud computing, or microservices architecture, I’m all ears!
 - Problem Solving: I am driven by challenges—complex problems fuel my passion. Whether it's debugging a tricky bug or optimizing code for performance, I enjoy diving deep into issues and finding elegant solutions.
 
-
-📚 **Reading Record**
-
-Here are my reading notes from various subjects, which I keep updating regularly:
-
-| **Category/Tag**      | **Repository Name** | **Description** | **Books & Articles** |  
-|-----------------------|---------------------|-----------------|----------------------|  
-| **Operating Systems**  | [Operating Systems Notes](link-to-your-os-notes)![Static Badge](https://img.shields.io/badge/%E7%AC%94%E8%AE%B0-%23red) | Introduction to OS concepts, Processes, Memory Management, File Systems | **Books**: "Operating System Concepts" - Abraham Silberschatz<br>**Article**: [Introduction to Operating Systems](https://example.com/article) |  
-| **Computer Networks**  | [Computer Networks Notes](https://github.com/yi-echo/CS-supernote/tree/main/Computer-Networks)![Static Badge](https://img.shields.io/badge/%E7%AC%94%E8%AE%B0-%23red) | Basic Networking Concepts, OSI Model, TCP/IP, Subnetting, Routing & Switching | **Books**: "Computer Networking: A Top-Down Approach" - James Kurose<br>**Article**: [Understanding Networking Protocols](https://example.com/article) |  
-| **Computer Organization** | [Computer Organization Notes](link-to-your-computer-organization-notes)![Static Badge](https://img.shields.io/badge/%E7%AC%94%E8%AE%B0-%23red) | Introduction to Computer Architecture, CPU, Memory Hierarchy, Instruction Set Architecture | **Books**: "Computer Organization and Design" - David A. Patterson<br>**Article**: [Basics of Computer Organization](https://example.com/article) |  
-| **Data Structures & Algorithms** | [Data Structures & Algorithms Notes](link-to-your-dsa-notes)![Static Badge](https://img.shields.io/badge/%E7%AC%94%E8%AE%B0-%23red) | Introduction to Data Structures (Arrays, Linked Lists, Stacks, Queues, Trees), Algorithm Analysis, Sorting & Searching Algorithms | **Books**: "Introduction to Algorithms" - Cormen, Leiserson, Rivest, Stein<br>**Article**: [A Guide to Data Structures and Algorithms](https://example.com/article) |  
-| **JavaScript & Web Development** | [JavaScript Notes](link-to-your-javascript-notes)![Static Badge](https://img.shields.io/badge/%E7%AC%94%E8%AE%B0-%23red) | Basic JavaScript Concepts: Variables, Functions, Objects, Arrays, DOM Manipulation | **Books**: "JavaScript: The Good Parts" - Douglas Crockford<br>**Article**: [Detailed Explanation of JavaScript Asynchronous Programming](https://example.com/article)<br>**Books**: "你不知道的 JavaScript 上中下卷" - YDKJS 系列 |  
-| **Python**            | [Python Notes](link-to-your-python-notes) | Basic Syntax, Data Types, Control Structures, Functions, Object-Oriented Programming | **Books**: "Python Programming: From Beginner to Expert"<br>**Article**: [Python and Data Science](https://example.com/article) |  
-| **Programming Tools** | [Neovim Notes](link-to-your-neovim-notes) | Efficient code editing and workflow using Neovim, plugins, and custom configurations | **Website**: [Neovim Official](https://neovim.io/) |  
-| **AI Automation Tools** | [Claude AI Notes](link-to-your-claude-ai-notes) | Overview of Claude AI's capabilities, use cases, and integration into workflows | **Website**: [Claude AI Official](https://www.anthropic.com/claude) |  
-| **Automation Tools**   | [n8n Notes](https://github.com/yi-echo/n8n-template/tree/main)![Static Badge](https://img.shields.io/badge/%E8%87%AA%E7%A0%94-%23c93756) | Automating workflows using n8n, integrating APIs, services, and automating repetitive tasks | **Website**: [n8n Official](https://n8n.io/) |  
-| **Project Build**      | [Project Build Notes](link-to-your-project-build-notes) ![Static Badge](https://img.shields.io/badge/%E8%87%AA%E7%A0%94-%23c93756)| TBD | **Website**: TBD |
-
-
 🛠️ **Tech Stack**
 
 #### 💻 Programming Languages

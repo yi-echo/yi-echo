@@ -2,18 +2,12 @@
 
 I am a Fullstack Developer with a proven track record in designing scalable platforms, building robust backend systems, and creating intuitive user interfaces. My focus is on delivering impactful solutions that drive innovation, improve efficiency, and create seamless experiences. Whether I'm building the front end or working with databases and APIs, I take pride in every line of code I write.
 
-🦄 **About Me**  
+**About Me**  
 Learning is my lifelong passion. From exploring the inner workings of libraries to experimenting with cutting-edge technologies, I approach development with a low-level mindset striving to understand the "how" and "why" behind every tool I use. This allows me to not only build efficient solutions but also ensure that every project I contribute to is crafted with attention to detail and optimizing performance.
 
 - I thrive on challenges and constantly seek out new opportunities to solve complex technical problems. Whether it’s optimizing a backend service or building scalable UI components, I’m always looking to improve the products I work on.
 - From `git init` to deployment, I am hands-on in all stages of the development process. I love the feeling of taking a concept and turning it into a functioning application, paying close attention to every detail.
 - I'm passionate about sharing knowledge— I actively engage with the programming community to stay updated with best practices, contribute to open-source, and mentor others. Teaching what I learn reinforces my own understanding and keeps me grounded in real-world problem-solving.
-
-🤖 My Interests  
-- DIY Tech Projects: I love building things—whether it’s a custom Linux setup, a self-hosted app, or a unique automation project. I believe that the best way to learn is by building something real.
-- Open Source: Contributing to open-source projects is one of the best ways to give back to the community. I actively contribute to projects that I find exciting or that help me learn new skills.
-- Continuous Learning: Technology evolves fast, and I strive to stay on top of the latest trends, tools, and best practices. If you want to talk about modern JavaScript, cloud computing, or microservices architecture, I’m all ears!
-- Problem Solving: I am driven by challenges—complex problems fuel my passion. Whether it's debugging a tricky bug or optimizing code for performance, I enjoy diving deep into issues and finding elegant solutions.
 
 🛠️ **Tech Stack**
 

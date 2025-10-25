@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm NeonAIx</h1>
+<h1 align="center">Hi 👋, I'm Ryan</h1>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=500&lines=A+passionate+fullstack+developer;Have+a+full-stack+dream" alt="Typing SVG" /></a>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yi-echo" alt="yi" /> </p>

@@ -8,19 +8,26 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
+
     steps:
-      - name: Generate terminal-style metrics (modern, compact)
+      - name: 📊 Generate terminal-style metrics (modern + fast)
         uses: lowlighter/metrics@latest
         with:
+          # 🔑 GitHub Token (请使用 Personal Access Token)
           token: ${{ secrets.METRICS_TOKEN }}
+
+          # 👤 用户信息
           user: yi-echo
 
-          # ✅ 模板配置（终端风格）
+          # ⚙️ 模板与渲染配置
           template: terminal-modern
           config_timezone: Asia/Shanghai
           config_padding: 0
+          use_prebuilt_image: yes       # ✅ 使用预构建镜像，显著提速
+          optimize: yes                 # ✅ 优化 SVG 体积
+          clean_workflows: yes          # ✅ 自动清理旧工作流缓存
 
-          # 📈 显示核心模块
+          # 📈 核心展示模块
           base: header, repositories, metadata
 
           # 💻 语言统计
@@ -30,5 +37,5 @@ jobs:
           plugin_languages_threshold: 0%
           plugin_languages_sections: most-used
 
-          # 📂 输出 SVG 文件
+          # 📂 输出文件
           filename: github-metrics.svg

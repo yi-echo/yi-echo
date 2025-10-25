@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm NeonAIx</h1>
-<h3 align="center">A passionate fullstack developer from China</h3>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=500&lines=A+passionate+fullstack+developer;Have+a+full-stack+dream" alt="Typing SVG" /></a>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=t8y2&label=Profile%20views&color=0e75b6&style=flat" alt="t8y2" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=yi-echo" alt="yi" /> </p>
 
 <p align="left"> </p>
 

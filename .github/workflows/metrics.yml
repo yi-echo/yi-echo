@@ -1,33 +1,31 @@
-name: Generate GitHub Metrics (Terminal Modern)
+name: 🧠 Generate GitHub Metrics (Terminal Modern)
 
 on:
   schedule:
     - cron: "0 0 * * *" # 每天凌晨自动更新
-  workflow_dispatch:
+  workflow_dispatch: # 支持手动触发
 
 jobs:
   build:
     runs-on: ubuntu-latest
 
     steps:
-      - name: 📊 Generate terminal-style metrics (modern + fast)
+      - name: ⚙️ Generate terminal-style metrics (modern, compact)
         uses: lowlighter/metrics@latest
         with:
-          # 🔑 GitHub Token (请使用 Personal Access Token)
+          # 🔑 你的 GitHub Token（在仓库 Secrets 中添加 METRICS_TOKEN）
           token: ${{ secrets.METRICS_TOKEN }}
 
-          # 👤 用户信息
+          # 👤 用户名
           user: yi-echo
 
-          # ⚙️ 模板与渲染配置
+          # 🧩 模板与样式
           template: terminal-modern
+          theme: tokyo-night
           config_timezone: Asia/Shanghai
-          config_padding: 0
-          use_prebuilt_image: yes       # ✅ 使用预构建镜像，显著提速
-          optimize: yes                 # ✅ 优化 SVG 体积
-          clean_workflows: yes          # ✅ 自动清理旧工作流缓存
+          config_padding: 0      # ✅ 去除上下左右留白
 
-          # 📈 核心展示模块
+          # 📈 显示的核心信息模块
           base: header, repositories, metadata
 
           # 💻 语言统计
@@ -37,5 +35,5 @@ jobs:
           plugin_languages_threshold: 0%
           plugin_languages_sections: most-used
 
-          # 📂 输出文件
+          # 📂 输出文件（SVG）
           filename: github-metrics.svg

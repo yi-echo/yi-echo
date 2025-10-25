@@ -1,4 +1,4 @@
-name: 🧠 Generate GitHub Metrics (Terminal Modern)
+name: Generate GitHub Metrics (Terminal)
 
 on:
   schedule:
@@ -10,30 +10,26 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: ⚙️ Generate terminal-style metrics (modern, compact)
+      - name: 📟 Generate GitHub Metrics (Terminal Style)
         uses: lowlighter/metrics@latest
         with:
-          # 🔑 你的 GitHub Token（在仓库 Secrets 中添加 METRICS_TOKEN）
+          # 🔑 GitHub Personal Access Token (PAT)
           token: ${{ secrets.METRICS_TOKEN }}
 
           # 👤 用户名
           user: yi-echo
 
-          # 🧩 模板与样式
-          template: terminal-modern
-          theme: tokyo-night
-          config_timezone: Asia/Shanghai
-          config_padding: 0      # ✅ 去除上下左右留白
-
-          # 📈 显示的核心信息模块
-          base: header, repositories, metadata
-
-          # 💻 语言统计
-          plugin_languages: yes
-          plugin_languages_limit: 8
-          plugin_languages_ignored: html, css
-          plugin_languages_threshold: 0%
-          plugin_languages_sections: most-used
-
-          # 📂 输出文件（SVG）
+          # 🧩 模板与输出文件
+          template: terminal
           filename: github-metrics.svg
+
+          # ⚙️ 基础模块（头部 + 仓库统计 + 元数据）
+          base: header, metadata
+
+          # 🕒 时区（建议保持一致）
+          config_timezone: Asia/Shanghai
+
+          # 🚀 优化选项（建议加上）
+          use_prebuilt_image: yes  # ✅ 使用预构建镜像，加快构建速度
+          optimize: yes            # ✅ 优化 SVG 文件体积
+          clean_workflows: yes     # ✅ 自动清理旧缓存文件

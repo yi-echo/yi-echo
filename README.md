@@ -3,10 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yi-echo" alt="yi" /> </p>
 
-<p align="left"> </p>
-
-- 🌱 I’m currently learning **everything**
-- ⚡ Fun fact **I think i am modest and hardworking**
+<p align="left">
+  <img src="https://raw.githubusercontent.com/yi-echo/yi-echo/main/github-metrics.svg" alt="Metrics" />
+</p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.salesforce.com/" target="_blank" rel="noreferrer">

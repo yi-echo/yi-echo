@@ -33,3 +33,5 @@ jobs:
           use_prebuilt_image: yes  # ✅ 使用预构建镜像，加快构建速度
           optimize: yes            # ✅ 优化 SVG 文件体积
           clean_workflows: yes     # ✅ 自动清理旧缓存文件
+          config_padding: 0       # ✅ 去掉内边距
+          config_display: large   # ✅ 防止额外留白
